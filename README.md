@@ -1,2 +1,2 @@
-# Redis
-Docker redis image
+# Ruby
+Docker ruby test image 
